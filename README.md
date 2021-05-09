@@ -1,6 +1,6 @@
 # SNRestaurant
 
-**Developed in 2020** <br />
+**Developed in 2021** <br />
 for college project <br /><br />
 
 *This java GUI based fast food management software was developed for college project*<br />
